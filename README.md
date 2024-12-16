@@ -1,16 +1,6 @@
-## Hi there 👋
+Aya Tv هو أفضل تطبيق للبث الرياضي. يسمح لك بمشاهدة الأحداث الرياضية المباشرة مجانًا على نظام أندرويد
 
-<!--
-**Ayatv/AYATV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+مع تطبيق Aya TV يمكنك مشاهدة مباريات كرة القدم مجاناً من أي مكان على هاتفك الذكي
 
-Here are some ideas to get you started:
+👈👈👈👈👈👈👈<a href="ayatv.pro">حمّل تلفزيون AYA TV الآن</a> 👉👉👉👉👉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
